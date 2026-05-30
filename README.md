@@ -7,6 +7,7 @@
 ```text
 .
 ├── effects/        # 视觉特效模板、结尾包装、镜头转场参考
+├── LICENSE         # 自定义授权协议
 ├── notes/          # 通用提示词板、导演笔记、表演与镜头知识卡
 ├── metadata.json   # 当前知识库条目的结构化索引
 └── README.md
@@ -43,6 +44,14 @@
   - 适合的镜头或场景
   - 可直接复用的提示词方向
   - 检索标签
+
+## 授权说明
+
+- 本仓库采用自定义授权协议，完整条款见 `LICENSE`。
+- 非商业使用不受限制。
+- 商业使用必须明确说明来源为 `ZeroCut` 或 `ZeroCut Director Notes`。
+- 商业使用必须附带可见且可访问的链接：`https://zerocut.cn`
+- 推荐署名格式：`Source: ZeroCut Director Notes - https://zerocut.cn`
 
 ## 维护建议
 
