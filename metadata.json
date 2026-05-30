@@ -1,0 +1,54 @@
+{
+  "title": "ZeroCut Director Notes",
+  "description": "AI video director knowledge base for reusable prompt boards and visual effect templates.",
+  "version": "1.0.0",
+  "updatedAt": "2026-05-30",
+  "collections": {
+    "notes": [
+      {
+        "id": "note-micro-expression-board",
+        "type": "prompt_board",
+        "title": "导演微表情提示词板",
+        "fileName": "微表情.png",
+        "path": "notes/微表情.png",
+        "summary": "聚焦角色微表情调度的导演提示词板，适合指导 AI 视频中细微但可信的情绪演绎。",
+        "description": "该提示词板围绕冷静愤怒、恐惧、悲伤、强忍眼泪、杀意、惊讶、心虚、爱意等情绪类型，强调'情绪先制，变化先于动作，眼神先于语言'。内容同时提供微表情关键词、导演笔记写法建议、表演节奏参考与强度控制建议，可直接作为镜头表演提示词素材。",
+        "recommendedUse": [
+          "用于角色近景、特写镜头的情绪表现细化",
+          "用于演员表演提示、视频生成 prompt 细化或导演手记整理",
+          "用于避免 AI 角色只做大幅动作而缺乏细节变化"
+        ],
+        "tags": [
+          "微表情",
+          "表演调度",
+          "角色情绪",
+          "导演提示词",
+          "近景特写"
+        ]
+      }
+    ],
+    "effects": [
+      {
+        "id": "effect-historical-ending-book-cover",
+        "type": "visual_effect_template",
+        "title": "历史剧终：全景压入古书封面",
+        "fileName": "历史剧终.png",
+        "path": "effects/历史剧终.png",
+        "summary": "将全景世界压入古书并合书成封面的 5 秒历史题材结尾特效模板。",
+        "description": "该模板以黑白手绘分镜形式拆解了'全景建立 -> 旋转变焦 -> 画面融入书页 -> 书页合拢 -> 封面呈现'的终幕效果。适合历史剧、史诗题材、章节结束或厚重世界观视频的收束镜头，突出古卷质感、压入感与仪式化结尾。",
+        "recommendedUse": [
+          "用于历史题材、传记题材或世界观回收型结尾镜头",
+          "用于把场景全景转化为物件封存感的视觉收束",
+          "用于导演分镜拆解、视频生成提示词设计与剪辑合成参考"
+        ],
+        "tags": [
+          "历史剧",
+          "结尾镜头",
+          "古书封面",
+          "特效模板",
+          "分镜参考"
+        ]
+      }
+    ]
+  }
+}
