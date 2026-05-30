@@ -53,6 +53,14 @@
 - 商业使用必须附带可见且可访问的链接：`https://zerocut.cn`
 - 推荐署名格式：`Source: ZeroCut Director Notes - https://zerocut.cn`
 
+## Credits
+
+- 致谢 `多参宗` 提供的公开课程与知识整理。
+- 多参宗漫剧公开课，可以直接关注 vidu 账号观看：
+  [公开课链接](https://scn5p1hhz37n.feishu.cn/wiki/OX1vwcsVsiatgnk4lH9cr0UznMI?from=from_copylink)
+- 多参宗知识库：
+  [知识库链接](https://wcnmhd1fgo2a.feishu.cn/wiki/WWuwwltOliHfp7k6gm6cCbPJngc?from=from_copylink)
+
 ## 维护建议
 
 - 文件命名尽量简洁明确，优先使用中文语义名。
