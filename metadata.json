@@ -2,7 +2,7 @@
   "title": "ZeroCut Director Notes",
   "description": "AI video director knowledge base for reusable prompt boards and visual effect templates.",
   "version": "1.0.0",
-  "updatedAt": "2026-05-30",
+  "updatedAt": "2026-06-04",
   "collections": {
     "notes": [
       {
@@ -110,6 +110,48 @@
           "古书封面",
           "特效模板",
           "分镜参考"
+        ]
+      },
+      {
+        "id": "effect-frame-into-ancient-book",
+        "type": "visual_effect_template",
+        "title": "任意画面压入古书并合上",
+        "fileName": "画面入古书.png",
+        "path": "effects/画面入古书.png",
+        "summary": "将任意画面转化为书页内容并压入古书，最终合书停留封面的通用特效模板。",
+        "description": "该模板以黑白手绘分镜拆解了'静止展示画面 -> 变焦转化为书页 -> 手绘书页融入古书 -> 书页合拢收纳画面 -> 封面静止呈现'的 5 秒包装效果。适合片头片尾、章节封存、世界观收束或将任意场景包装成古籍记载感的视觉设计。",
+        "recommendedUse": [
+          "用于把风景、人物、物件或场景画面包装为古书内容",
+          "用于片头片尾、章节结束和知识封存感的视觉收束",
+          "用于导演分镜设计、视频包装提示词与后期合成参考"
+        ],
+        "tags": [
+          "古书转场",
+          "封面合书",
+          "片尾包装",
+          "视觉收束",
+          "特效模板"
+        ]
+      },
+      {
+        "id": "effect-recursive-loop-world",
+        "type": "visual_effect_template",
+        "title": "递归循环世界：局部递归版",
+        "fileName": "递归循环世界.png",
+        "path": "effects/递归循环世界.png",
+        "summary": "从局部细节层层递进到更大世界，再回到最初细节形成无限循环的特效模板。",
+        "description": "该模板围绕'局部特写 -> 进入微观世界 -> 世界展开 -> 地球/宇宙显现 -> 收缩汇聚 -> 回到起点'的递归镜头链路展开，强调尺度切换、能量收缩、光点回归与循环闭环。适合梦境、幻境、意识空间、宇宙叙事或需要制造宿命感与无限轮回感的视觉段落。",
+        "recommendedUse": [
+          "用于梦境、幻觉、意识空间和宇宙叙事的过渡与高潮",
+          "用于制造从微观到宏观再回归原点的结构性视觉体验",
+          "用于导演分镜设计、特效镜头拆解与视频生成提示词参考"
+        ],
+        "tags": [
+          "递归循环",
+          "宇宙缩放",
+          "尺度切换",
+          "闭环叙事",
+          "特效模板"
         ]
       }
     ]
