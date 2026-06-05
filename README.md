@@ -39,6 +39,21 @@
 
 ### 提示词板
 
+- `notes/双人对战（含慢速特写）.png`
+  - 双人对战导演提示词板：极速硬核版。
+  - 适合双人近身格斗、刀械对决、短时决胜负场景。
+  - 强调快速切换、慢速受击特写、真实反馈与硬核压迫感。
+
+- `notes/惊险动作.png`
+  - 惊险动作导演板：通用版。
+  - 适合追车、逃生、坠落、爆炸和极限反击类场景。
+  - 强调失误触发、危机升级、极限反击与化险为夷。
+
+- `notes/盗梦空间.png`
+  - 盗梦空间导演提示板：重构版。
+  - 适合梦境递进、意识潜入、空间错位和现实松动类场景。
+  - 强调超现实空间结构、规则先行、异常触发与意识觉醒。
+
 - `notes/多人对战.png`
   - 多人对战导演提示词板：极速对决。
   - 适合多人混战、冷兵器对抗、街头群殴和高压短时动作场景。
@@ -116,11 +131,13 @@
 - 多参宗知识库：
   [知识库链接](https://wcnmhd1fgo2a.feishu.cn/wiki/WWuwwltOliHfp7k6gm6cCbPJngc?from=from_copylink)
 
-### 部分提示词板来源
+### 部分提示词板来源（手动维护）
 
 `排名不分先后`
 
-- [多人对战](notes/多人对战.png) - [憨仔动漫](https://www.douyin.com/user/MS4wLjABAAAAxLgfCUD082byPcx4MKT8084fzgIbfuNuHnWA9Xh6dPnLVOPwvH7-tZzM0eaSy3MU?from_tab_name=main) 
+1. [憨仔动漫](https://www.douyin.com/user/MS4wLjABAAAAxLgfCUD082byPcx4MKT8084fzgIbfuNuHnWA9Xh6dPnLVOPwvH7-tZzM0eaSy3MU?from_tab_name=main) 
+  - [多人对战](notes/多人对战.png)
+  - [双人对战（含慢速特写）](notes/双人对战（含慢速特写）.png)
 
 ## 维护建议
 
