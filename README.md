@@ -99,9 +99,9 @@
 
 ### 部分提示词板来源
 
-_排名不分先后_
+`排名不分先后`
 
-- [多人对战](notes/多人对战.png)  [憨仔动漫](https://www.douyin.com/user/MS4wLjABAAAAxLgfCUD082byPcx4MKT8084fzgIbfuNuHnWA9Xh6dPnLVOPwvH7-tZzM0eaSy3MU?from_tab_name=main) 
+- [多人对战](notes/多人对战.png) - [憨仔动漫](https://www.douyin.com/user/MS4wLjABAAAAxLgfCUD082byPcx4MKT8084fzgIbfuNuHnWA9Xh6dPnLVOPwvH7-tZzM0eaSy3MU?from_tab_name=main) 
 
 ## 维护建议
 
