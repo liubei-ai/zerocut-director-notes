@@ -2,7 +2,7 @@
   "title": "ZeroCut Director Notes",
   "description": "AI video director knowledge base for reusable prompt boards and visual effect templates.",
   "version": "1.0.0",
-  "updatedAt": "2026-06-04",
+  "updatedAt": "2026-06-05",
   "collections": {
     "notes": [
       {
@@ -86,6 +86,48 @@
           "战机对抗",
           "高机动",
           "镜头调度",
+          "导演提示词"
+        ]
+      },
+      {
+        "id": "note-multi-fight-board",
+        "type": "prompt_board",
+        "title": "多人对战导演提示词板：极速对决",
+        "fileName": "多人对战.png",
+        "path": "notes/多人对战.png",
+        "summary": "聚焦多人近战混战中的景别分配、动作设计与实战压迫感的导演提示板。",
+        "description": "该提示板围绕 15 秒极速对决的镜头节奏、景别清单、动作设计原则、镜头语言与真实物理反馈展开，强调'快、狠、准'的群体对抗表达。适合拳脚、刀械、冷兵器或街头混战场景，用于统一压迫氛围、环境互动和实战感反馈。",
+        "recommendedUse": [
+          "用于多人混战、街头群殴、冷兵器对抗和短时高压打斗设计",
+          "用于拆解 15 秒内的高速动作节奏与镜头切换方案",
+          "用于强化环境互动、受击反馈和真实危险感的动作表达"
+        ],
+        "tags": [
+          "多人对战",
+          "动作场面",
+          "近战混战",
+          "实战反馈",
+          "导演提示词"
+        ]
+      },
+      {
+        "id": "note-final-destination-horror-board",
+        "type": "prompt_board",
+        "title": "死神来了：恐怖惊悚导演提示词板",
+        "fileName": "死神来了.png",
+        "path": "notes/死神来了.png",
+        "summary": "聚焦预兆驱动、命运闭环与死亡回收机制的恐怖惊悚导演提示板。",
+        "description": "该提示板围绕死亡预兆、死亡回收机制、角色类型与命运、五幕式叙事结构、常见场景类型和视听风格展开，强调'预兆 -> 逃过 -> 记录 -> 调查 -> 死神回收 -> 命运闭环'的恐怖叙事链路。适合灾难惊悚、死亡规则怪谈和宿命式恐怖片段的分镜设计。",
+        "recommendedUse": [
+          "用于死亡预告、宿命追杀、规则怪谈和灾难惊悚段落设计",
+          "用于搭建从预兆铺陈到回收反杀的悬念递进结构",
+          "用于统一恐怖氛围、误导线索和不可避免感的镜头表达"
+        ],
+        "tags": [
+          "死神来了",
+          "恐怖惊悚",
+          "命运闭环",
+          "死亡预兆",
           "导演提示词"
         ]
       }

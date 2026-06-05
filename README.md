@@ -24,6 +24,16 @@
 
 ### 提示词板
 
+- `notes/多人对战.png`
+  - 多人对战导演提示词板：极速对决。
+  - 适合多人混战、冷兵器对抗、街头群殴和高压短时动作场景。
+  - 强调快狠准节奏、受击反馈、环境互动与真实危险感。
+
+- `notes/死神来了.png`
+  - 恐怖惊悚导演提示词板。
+  - 适合死亡预兆、命运回收、规则怪谈和宿命式惊悚场景。
+  - 强调预兆铺陈、误导线索、回收机制与命运闭环。
+
 - `notes/空战狗斗.png`
   - 空战狗斗 1v1 导演提示板 V2。
   - 适合战机缠斗、咬尾追逐、空中攻防和决胜瞬间的场景。
@@ -86,6 +96,13 @@
   [公开课链接](https://scn5p1hhz37n.feishu.cn/wiki/OX1vwcsVsiatgnk4lH9cr0UznMI?from=from_copylink)
 - 多参宗知识库：
   [知识库链接](https://wcnmhd1fgo2a.feishu.cn/wiki/WWuwwltOliHfp7k6gm6cCbPJngc?from=from_copylink)
+
+### 部分提示词板来源
+
+_排名不分先后_
+
+- [多人对战](notes/多人对战.png)  [憨仔动漫](https://www.douyin.com/user/MS4wLjABAAAAxLgfCUD082byPcx4MKT8084fzgIbfuNuHnWA9Xh6dPnLVOPwvH7-tZzM0eaSy3MU?from_tab_name=main) 
+- [死神来了](notes/死神来了.png)
 
 ## 维护建议
 
