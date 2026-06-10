@@ -39,6 +39,11 @@
 
 ### 提示词板
 
+- `notes/二人对话戏.png`
+  - 二人对话戏导演板。
+  - 适合谈判、摊牌、审问、情感对峙和权力博弈类场景。
+  - 强调内外反打、特写心理差异、关系推进与情绪冲突。
+
 - `notes/15秒舞蹈v1.png`
   - 15 秒舞蹈动作导演板。
   - 适合东方韵味、武舞融合、人物气场展示和情绪驱动型舞蹈短片。
@@ -141,10 +146,11 @@
 ## Credits
 
 - 致谢 `多参宗` 提供的公开课程与知识整理。
-- 多参宗漫剧公开课，可以直接关注 vidu 账号观看：
-  [公开课链接](https://scn5p1hhz37n.feishu.cn/wiki/OX1vwcsVsiatgnk4lH9cr0UznMI?from=from_copylink)
+- 微信搜索 `多参宗冰皓` 关注宗主视频号。
 - 多参宗知识库：
   [知识库链接](https://wcnmhd1fgo2a.feishu.cn/wiki/WWuwwltOliHfp7k6gm6cCbPJngc?from=from_copylink)
+- 更多资源
+  [符宗-符箓诀](https://gcnju61pvsqt.feishu.cn/wiki/Pqw9w1KdViOwzFk8Gttc0gUHnpg?table=tblg0R4pUiCZZaDA&view=vewUdztoTM)
 
 ### 部分提示词板来源（手动维护）
 

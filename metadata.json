@@ -2,7 +2,7 @@
   "title": "ZeroCut Director Notes",
   "description": "AI video director knowledge base for reusable prompt boards and visual effect templates.",
   "version": "1.0.0",
-  "updatedAt": "2026-06-06",
+  "updatedAt": "2026-06-10",
   "collections": {
     "notes": [
       {
@@ -254,6 +254,27 @@
           "敌方强化",
           "压制反杀",
           "不对称对决",
+          "导演提示词"
+        ]
+      },
+      {
+        "id": "note-two-person-dialogue-board",
+        "type": "prompt_board",
+        "title": "二人对话戏导演板",
+        "fileName": "二人对话戏.png",
+        "path": "notes/二人对话戏.png",
+        "summary": "聚焦双人对话场景中关系、权力变化与情绪推进的导演提示板。",
+        "description": "该提示板围绕标准对话镜头组、冲突构图法则、内反打与外反打的心理差异、特写的真实作用、广角的力量以及冲突升级镜头路线展开，强调从关系建立到冲突、再到情绪释放的双人对话设计。适合谈判、摊牌、审问、情感对峙和权力博弈类对话场景的镜头拆解。",
+        "recommendedUse": [
+          "用于双人谈判、情感对峙、审问摊牌和关系博弈类场景",
+          "用于设计内外反打、特写与广角在心理表达上的差异",
+          "用于强化台词之外的压迫感、权力变化和情绪冲突"
+        ],
+        "tags": [
+          "二人对话戏",
+          "反打镜头",
+          "权力关系",
+          "情绪冲突",
           "导演提示词"
         ]
       }
